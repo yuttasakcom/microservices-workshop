@@ -1,6 +1,7 @@
 # Microservices Workshop
 
 ## Table of Contents
-- [CI/CD]
+
+- [CI/CD](#gitlab)
 
 ### Gitlab
