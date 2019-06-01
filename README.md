@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
-- [CI/CD](#gitlab)
+- [CI/CD]
+  - [Gitlab](#gitlab)
 
 ### Gitlab
